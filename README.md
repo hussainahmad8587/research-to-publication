@@ -1,4 +1,4 @@
-# Research Starter Guide
+# Research to Publication: A Practical Handbook
 
 ### From your first research question to a well-written paper
 
