@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Research to Publication
+  structure:
+    - type: space
+      key: research-handbook
+      title: Research Handbook
+      path: handbook
+      default: true
+      content:
+        directory: ./
+        language: en
