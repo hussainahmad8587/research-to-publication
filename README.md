@@ -2,7 +2,7 @@
 
 > A practical guide to understanding research, developing ideas, working effectively, and communicating scientific findings.
 
-**English adaptation and editing by Hussain Ahmad**  
+**Hussain Ahmad**  
 PhD Scholar in Control Science and Engineering  
 Beijing University of Chemical Technology
 
